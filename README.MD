@@ -1,7 +1,7 @@
 
 ### Olá! I'm @PauloAlmeidaMorais!
 
-(Nesse momento estou reconstruindo meu GitHub. Em breve você verá todos os projetos aqui novamente)
+(Esse é meu novo Github. Em breve você verá meus projetos aqui)
 <br>
 
 <div>

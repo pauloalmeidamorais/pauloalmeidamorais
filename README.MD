@@ -1,8 +1,9 @@
 
-### Olá! Eu sou o Paulo Almeida Morais
+### Olá! I'm @PauloAlmeidaMorais!
+
+(Nesse momento estou reconstruindo meu GitHub. Em breve você verá todos os projetos aqui novamente)
 <br>
-### Nesse momento estou reconstruindo esse GitHub. Em breve você verá todos os projetos aqui novamente.
-<br>
+
 <div>
   <a href="https://github.com/pauloalmeidamorais">
   <img height="143em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloalmeidamorais&layout=compact&langs_count=6&theme=tokyonight"/>

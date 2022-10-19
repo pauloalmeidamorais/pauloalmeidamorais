@@ -1,5 +1,7 @@
 
-### Hello! I'm @pauloalmeidamorais!
+### Olá! Eu sou o Paulo Almeida Morais
+<br>
+#### Nesse momento estou reconstruindo esse GitHub. Em breve você verá todos os projetos aqui novamente.
 <br>
 <div>
   <a href="https://github.com/pauloalmeidamorais">

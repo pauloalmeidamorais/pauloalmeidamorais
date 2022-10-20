@@ -1,7 +1,7 @@
 
 ### Hello! I'm @PauloAlmeidaMorais!
 
-(Esse é meu novo Github. Em breve você verá os meus projetos aqui)
+
 <br>
 <link rel="stylesheet" href="skillbarsimple.css">
 <div>

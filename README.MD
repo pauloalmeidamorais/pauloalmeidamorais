@@ -1,9 +1,6 @@
 
 ### Hello! I'm @PauloAlmeidaMorais!
 
-
-<br>
-<link rel="stylesheet" href="skillbarsimple.css">
 <div>
   <a href="https://github.com/pauloalmeidamorais">
   <img height="143em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloalmeidamorais&layout=compact&langs_count=6&theme=github_dark"/>

@@ -10,6 +10,13 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=pauloalmeidamorais&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>  
 </div>
  
+<div class="skillBar">
+	<div class="skillBar_100 barBrown">
+		<span class="skillArea">Java</span>
+		<span class="percentText">80%</span>
+	</div>
+</div>
+
  <br>
  
   ### Redes Sociais:

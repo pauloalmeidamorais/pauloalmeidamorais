@@ -13,7 +13,7 @@
 
  <br>
  
-  ### Redes Sociais:
+  ### Social Networks:
  
 <div> 
   

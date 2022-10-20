@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/pauloalmeidamorais">
-  <img height="143em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloalmeidamorais&layout=compact&langs_count=6&theme=nord"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=pauloalmeidamorais&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>  
+  <img height="143em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloalmeidamorais&layout=compact&langs_count=6&theme=noctis_minimus"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=pauloalmeidamorais&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>  
 </div>
  
  <br>
